@@ -5,4 +5,4 @@ Another one is max heap and it includes number of swap analysis. In both folder,
 
 You are encouraged to use "input.txt" folder so you can test the max heap implementation.
 
-This implementation's intension is practising AVL Tree and Max Heap implementations in C++. It is a programming assignment of fundemental structures in computer science in Bilkent.
+This implementation's intention is practising AVL Tree and Max Heap implementations in C++. It is a programming assignment of fundemental structures in computer science in Bilkent.
